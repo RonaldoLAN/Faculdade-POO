@@ -1,0 +1,3 @@
+// Tipos primitivos - Os tipos primitivos são os tipos de dados que podem ser armazenados em variáveis. Exemplos: int, float, double, bool, char, string. Os dados primitivos são armazenados na memória stack.
+
+// Tipos de referência - Os tipos de referência são os tipos de dados que podem armazenar endereços de memória. Exemplos: classes, interfaces, arrays, etc. Já os dados de referência são armazenados na memória heap. 
