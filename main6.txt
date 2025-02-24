@@ -1,0 +1,5 @@
+Questão 6
+
+Pergunta 1 - numeros1 [0] foi alterado porque numeros2[] estava usando o mesmo endereço de memória em que o numero1[] foi instanciado.
+
+Pergunta 2 - Basta apenas criar o numero2[] sem utilizar numero1[].
