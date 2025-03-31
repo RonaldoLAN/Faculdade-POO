@@ -15,7 +15,7 @@ public class Produto {
         get {return Preco;}
 
         set {
-            if (Preco < 0) {
+            if (preco < 0) {
                 Console.WriteLine("Preco invalido");
             }
         }
